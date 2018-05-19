@@ -18,6 +18,7 @@ public class Prueba {
 
     }
 
+
     public void addComment(Comment comment) {
         this.comment = comment;
     }
@@ -56,5 +57,9 @@ public class Prueba {
 
     public Result getResult() {
         return this.result;
+    }
+
+    public void setCommentario(Comment comentario) {
+        this.comment = comentario;
     }
 }

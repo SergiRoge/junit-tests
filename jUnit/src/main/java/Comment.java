@@ -13,7 +13,15 @@ public class Comment {
 
     }
 
+    public Comment(String comentario) {
+        textComment = comentario;
+    }
+
     public String getTextComment() {
         return this.textComment;
+    }
+
+    public Boolean save() {
+        return false;
     }
 }

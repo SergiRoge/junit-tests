@@ -20,118 +20,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1836">
-              <caret line="108" column="49" selection-start-line="108" selection-start-column="49" selection-end-line="108" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestGetTestFromDB.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestGetTestFromDB.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestGetTestFromDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+            <state relative-caret-position="408">
+              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyDatabase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MyDatabase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestAddTestToAnOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestAddTestToAnOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Order.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Order.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="15" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestAddResultToATest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestAddResultToATest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Comment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Comment.java">
+      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="30" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Result.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Result.java">
+      <file leaf-file-name="CustomerService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CustomerService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="32" />
+            <state relative-caret-position="357">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
               <folding>
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
-                <element signature="e#652#653#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Prueba.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Prueba.java">
+      <file leaf-file-name="CustomerDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CustomerDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
-                <element signature="e#665#666#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-                <element signature="e#753#754#0" expanded="true" />
-                <element signature="e#799#800#0" expanded="true" />
-                <element signature="e#834#835#0" expanded="true" />
-                <element signature="e#865#866#0" expanded="true" />
-                <element signature="e#913#914#0" expanded="true" />
-                <element signature="e#953#954#0" expanded="true" />
-                <element signature="e#1020#1021#0" expanded="true" />
-                <element signature="e#1056#1057#0" expanded="true" />
-                <element signature="e#1089#1090#0" expanded="true" />
-                <element signature="e#1122#1123#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -142,8 +68,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -156,17 +82,36 @@
         <option value="$PROJECT_DIR$/src/test/java/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/Result.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestAddResultToATest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Comment.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestAddCommentToATest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Prueba.java" />
         <option value="$PROJECT_DIR$/src/main/java/Order.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestAddTestToAnOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/MyDatabase.java" />
         <option value="$PROJECT_DIR$/src/main/java/Mock.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Prueba.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Comment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CustomerDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Customer.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestGetTestFromDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CustomerService.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="207" />
@@ -219,6 +164,11 @@
             </path>
             <path>
               <item name="jUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jUnit" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -262,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestGetTestFromDB.testMoreThanOneReturnValue">
+  <component name="RunManager" selected="JUnit.TestGetTestFromDB">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -398,8 +348,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestGetTestFromDB.testMoreThanOneReturnValue" />
         <item itemvalue="JUnit.TestGetTestFromDB" />
+        <item itemvalue="JUnit.TestGetTestFromDB.testMoreThanOneReturnValue" />
         <item itemvalue="JUnit.TestAddCommentToATest.TestAddCommentToATest" />
         <item itemvalue="JUnit.TestAddResultToATest" />
         <item itemvalue="JUnit.TestAddCommentToATest" />
@@ -420,35 +370,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestAddCommentToATest_TestAddCommentToATest - 2018.05.19 at 17h 11m 18s.xml">
-      <configuration name="TestAddCommentToATest.TestAddCommentToATest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestAddCommentToATest_TestAddCommentToATest - 2018.05.19 at 17h 11m 35s.xml">
-      <configuration name="TestAddCommentToATest.TestAddCommentToATest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestGetTestFromDB_testMoreThanOneReturnValue - 2018.05.19 at 17h 42m 04s.xml">
+    <history-entry file="TestGetTestFromDB_testMoreThanOneReturnValue - 2018.05.19 at 20h 01m 14s.xml">
       <configuration name="TestGetTestFromDB.testMoreThanOneReturnValue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestGetTestFromDB_testMoreThanOneReturnValue - 2018.05.19 at 17h 42m 43s.xml">
+    <history-entry file="TestGetTestFromDB_testMoreThanOneReturnValue - 2018.05.19 at 20h 01m 28s.xml">
       <configuration name="TestGetTestFromDB.testMoreThanOneReturnValue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestGetTestFromDB_testMoreThanOneReturnValue - 2018.05.19 at 17h 47m 56s.xml">
+    <history-entry file="TestGetTestFromDB_testMoreThanOneReturnValue - 2018.05.19 at 20h 02m 38s.xml">
       <configuration name="TestGetTestFromDB.testMoreThanOneReturnValue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestGetTestFromDB - 2018.05.19 at 18h 05m 44s.xml">
-      <configuration name="TestGetTestFromDB" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestGetTestFromDB - 2018.05.19 at 18h 06m 30s.xml">
-      <configuration name="TestGetTestFromDB" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestGetTestFromDB - 2018.05.19 at 18h 07m 30s.xml">
-      <configuration name="TestGetTestFromDB" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestGetTestFromDB - 2018.05.19 at 18h 07m 38s.xml">
-      <configuration name="TestGetTestFromDB" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestGetTestFromDB_testMoreThanOneReturnValue - 2018.05.19 at 18h 07m 58s.xml">
+    <history-entry file="TestGetTestFromDB_testMoreThanOneReturnValue - 2018.05.19 at 20h 03m 36s.xml">
       <configuration name="TestGetTestFromDB.testMoreThanOneReturnValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetTestFromDB_testMoreThanOneReturnValue - 2018.05.19 at 20h 04m 23s.xml">
+      <configuration name="TestGetTestFromDB.testMoreThanOneReturnValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetTestFromDB_testMoreThanOneReturnValue - 2018.05.19 at 20h 05m 16s.xml">
+      <configuration name="TestGetTestFromDB.testMoreThanOneReturnValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetTestFromDB_testMoreThanOneReturnValue - 2018.05.19 at 20h 09m 49s.xml">
+      <configuration name="TestGetTestFromDB.testMoreThanOneReturnValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetTestFromDB - 2018.05.19 at 20h 10m 11s.xml">
+      <configuration name="TestGetTestFromDB" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetTestFromDB - 2018.05.19 at 20h 10m 24s.xml">
+      <configuration name="TestGetTestFromDB" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetTestFromDB - 2018.05.19 at 20h 10m 47s.xml">
+      <configuration name="TestGetTestFromDB" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -457,19 +407,19 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32946146" />
+      <window_info anchor="bottom" id="Messages" weight="0.32946146" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" sideWeight="0.49836066" visible="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32946146" />
-      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.17604166" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35586062" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.50163937" side_tool="true" visible="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19583334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.184375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -489,7 +439,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -561,10 +511,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Mock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/mockito-core-2.18.3.jar!/org/mockito/Mockito.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="108" column="49" selection-start-line="108" selection-start-column="49" selection-end-line="108" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Prueba.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="448">
+          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
           <folding>
             <element signature="e#155#156#0" expanded="true" />
             <element signature="e#187#188#0" expanded="true" />
@@ -586,6 +557,8 @@
             <element signature="e#1056#1057#0" expanded="true" />
             <element signature="e#1089#1090#0" expanded="true" />
             <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1208#1209#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -604,13 +577,6 @@
             <element signature="e#600#601#0" expanded="true" />
             <element signature="e#652#653#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Comment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -645,31 +611,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Mock.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Comment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="374">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Desktop/mockito-core-2.18.3.jar!/org/mockito/Mockito.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CustomerDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="108" column="49" selection-start-line="108" selection-start-column="49" selection-end-line="108" selection-end-column="49" />
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestGetTestFromDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        <state relative-caret-position="408">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
