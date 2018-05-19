@@ -1,56 +1,37 @@
+import org.junit.Before;
 import org.junit.jupiter.api.Test;
+import org.mockito.Mock;
+import org.mockito.MockitoAnnotations;
 
-import java.util.Iterator;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
-import org.mockito.InjectMocks;
-import org.mockito.Mock;
 
 public class TestGetTestFromDB {
 
 
-    @Test
-    public void testMoreThanOneReturnValue()  {
-        Iterator<String> i= mock(Iterator.class);
-        when(i.next()).thenReturn("Mockito").thenReturn("rocks");
-        String result= i.next()+" "+i.next();
-        System.out.println(result);
-        //assert
-        assertEquals("Mockito rocks", result);
-    }
-/*
-
     @Mock
-    MyDatabase databaseMock;
+    private Prueba pruebaMock;
 
 
-    @Rule public MockitoRule mockitoRule = MockitoJUnit.rule();
+    @Before
+    public void setUp() throws Exception {
 
-
-    @Test
-    public void testQuery()  {
-        ClassToTest t  = new ClassToTest(databaseMock);
-
-        boolean check = t.query("* from t");
-
-        assertTrue(check);
-
-        verify(databaseMock).query("* from t");
+        MockitoAnnotations.initMocks(this);
 
     }
-
 
     @Test
     public void testMoreThanOneReturnValue()  {
-        Iterator<String> i= mock(Iterator.class);
-        when(i.next()).thenReturn("Mockito").thenReturn("rocks");
-        String result= i.next()+" "+i.next();
-        //assert
-        assertEquals("Mockito rocks", result);
-    }
 
-*/
+        Prueba prueba = new Prueba();//mock(Prueba.class);
+        when(prueba.getNombre()).thenReturn("Prueba 1");
+        //when(prueba.getComment()).thenReturn(new Comment());
+        //assert
+        assertTrue(true, "Pruebas iguales");
+
+    }
 }

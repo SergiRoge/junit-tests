@@ -32,20 +32,8 @@
       <file leaf-file-name="TestGetTestFromDB.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestGetTestFromDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1-effective-pom.xml" pinned="false" current-in-tab="false">
-        <entry file="mock:///1-effective-pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="248" selection-start-line="248" selection-end-line="252" selection-end-column="30" />
+            <state relative-caret-position="374">
+              <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -229,6 +217,10 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -308,14 +300,14 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestAddCommentToATest.TestAddCommentToATestFailed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestAddResultToATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jUnit" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestAddCommentToATest" />
-      <option name="METHOD_NAME" value="TestAddCommentToATestFailed" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="TestAddResultToATest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -325,12 +317,12 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestAddResultToATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestGetTestFromDB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jUnit" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestAddResultToATest" />
+      <option name="MAIN_CLASS_NAME" value="TestGetTestFromDB" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -399,18 +391,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.TestAddCommentToATest.TestAddCommentToATest" />
-      <item itemvalue="JUnit.TestAddCommentToATest.TestAddCommentToATestFailed" />
       <item itemvalue="JUnit.TestAddCommentToATest" />
       <item itemvalue="JUnit.TestAddResultToATest" />
       <item itemvalue="JUnit.TestGetTestFromDB.testMoreThanOneReturnValue" />
+      <item itemvalue="JUnit.TestGetTestFromDB" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TestGetTestFromDB.testMoreThanOneReturnValue" />
+        <item itemvalue="JUnit.TestGetTestFromDB" />
         <item itemvalue="JUnit.TestAddCommentToATest.TestAddCommentToATest" />
         <item itemvalue="JUnit.TestAddResultToATest" />
         <item itemvalue="JUnit.TestAddCommentToATest" />
-        <item itemvalue="JUnit.TestAddCommentToATest.TestAddCommentToATestFailed" />
       </list>
     </recent_temporary>
   </component>
@@ -428,34 +420,44 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestAddCommentToATest_TestAddCommentToATest - 2018.05.19 at 09h 28m 01s.xml">
-      <configuration name="TestAddCommentToATest.TestAddCommentToATest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestAddCommentToATest_TestAddCommentToATest - 2018.05.19 at 09h 28m 18s.xml">
-      <configuration name="TestAddCommentToATest.TestAddCommentToATest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestAddResultToATest - 2018.05.19 at 17h 09m 22s.xml">
-      <configuration name="TestAddResultToATest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestAddResultToATest - 2018.05.19 at 17h 10m 18s.xml">
-      <configuration name="TestAddResultToATest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestAddCommentToATest_TestAddCommentToATest - 2018.05.19 at 17h 10m 52s.xml">
-      <configuration name="TestAddCommentToATest.TestAddCommentToATest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestAddCommentToATest_TestAddCommentToATest - 2018.05.19 at 17h 11m 18s.xml">
       <configuration name="TestAddCommentToATest.TestAddCommentToATest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestAddCommentToATest_TestAddCommentToATest - 2018.05.19 at 17h 11m 35s.xml">
       <configuration name="TestAddCommentToATest.TestAddCommentToATest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestGetTestFromDB_testMoreThanOneReturnValue - 2018.05.19 at 17h 42m 04s.xml">
+      <configuration name="TestGetTestFromDB.testMoreThanOneReturnValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetTestFromDB_testMoreThanOneReturnValue - 2018.05.19 at 17h 42m 43s.xml">
+      <configuration name="TestGetTestFromDB.testMoreThanOneReturnValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetTestFromDB_testMoreThanOneReturnValue - 2018.05.19 at 17h 47m 56s.xml">
+      <configuration name="TestGetTestFromDB.testMoreThanOneReturnValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetTestFromDB - 2018.05.19 at 18h 05m 44s.xml">
+      <configuration name="TestGetTestFromDB" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetTestFromDB - 2018.05.19 at 18h 06m 30s.xml">
+      <configuration name="TestGetTestFromDB" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetTestFromDB - 2018.05.19 at 18h 07m 30s.xml">
+      <configuration name="TestGetTestFromDB" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetTestFromDB - 2018.05.19 at 18h 07m 38s.xml">
+      <configuration name="TestGetTestFromDB" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGetTestFromDB_testMoreThanOneReturnValue - 2018.05.19 at 18h 07m 58s.xml">
+      <configuration name="TestGetTestFromDB.testMoreThanOneReturnValue" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="207" y="46" width="1400" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.35016835" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32946146" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -463,11 +465,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32946146" />
-      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.24421965" />
+      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.17604166" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2716763" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19583334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -487,7 +489,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -650,6 +652,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/Desktop/mockito-core-2.18.3.jar!/org/mockito/Mockito.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1836">
@@ -659,11 +668,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestGetTestFromDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -684,7 +690,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -724,7 +730,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -743,6 +748,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: org.apiguardian:apiguardian-api:1.0.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
